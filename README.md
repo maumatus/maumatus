@@ -1,4 +1,4 @@
-### Hola, soy Mauricio V. Matus Furniel 👋
+### Hola, soy Maumatus 👋
 
 <!--
 **maumatus/maumatus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
