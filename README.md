@@ -3,7 +3,7 @@
 <!--
 **maumatus/maumatus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+He trabajado varios años en Desarrollo de postproducción y Motion Graphics en video/imagen para Publicidad/Educativos. Ante la necesidad de tener mas herramientas comencé a aprender programación. Dentro del tiempo que llevo desarrollando, si bien manejo lo básico y entiende bien FrontEnd esencial (HTML+CSS+JS) me he enfocado en desarrollo de Backend y Sistemas. Esto porque las herramientas necesitan de la potencia del servidor o el sistema de resolver el problema. Un contrasentido viniendo de área visual en la que soy Senior, pero creo que este enfoque me ha sido mas útil. Si bien manejo NodeJS y ExpressJS, aprendo un poco de Python por facilidad de crear Scripts pero me estoy enfocando en aprender RUST, los lenguajes de bajo nivel permiten crear herramientas más útiles para el área en la que me enfoco. También experimento un poco con codificación creativa y creo puede reemplazar en parte a las herramientas existentes para motion graphics como los son After Effects y actualmente Cavalier.
 
 - 🔭 Actualmente desarrollo un par de proyectos mientras sigo trabajando como realizador Motion Graphics:
 
